@@ -1,0 +1,9 @@
+{
+  "name": "virtio-input-decoder",
+  "description": "A simple decoder for virtio keyboard and mouse",
+  "authors": [{
+    "name": "belowthetree ",
+    "email": "1363558876@qq.com"
+  }],
+  "keywords": ["virtio keyboard", "mouse", "decoder"]
+}
